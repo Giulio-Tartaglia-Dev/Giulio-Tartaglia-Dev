@@ -24,3 +24,6 @@ Studente di Ingegneria Informatica presso l'Universitas Mercatorum , specializza
 **LinkedIn**: [Giulio Tartaglia](https://www.linkedin.com/in/giulio-tartaglia-b71763300/)
 **Email**: giuliotarta2003@gmail.com 
 **Sede**: Roma, Italia 
+
+![Le mie statistiche](https://github-readme-stats.vercel.app/api?username=Giulio-Tartaglia-Dev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giulio-Tartaglia-Dev&layout=compact&theme=tokyonight)
