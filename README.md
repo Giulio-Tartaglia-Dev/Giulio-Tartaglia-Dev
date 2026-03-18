@@ -13,10 +13,18 @@ Studente di Ingegneria Informatica presso l'Universitas Mercatorum , specializza
 ---
 
 ### 🛠️ Technical Stack
-**Linguaggi**: Java, C++, JavaScript, PHP, SQL, HTML/CSS.
-**Frontend**: Sviluppo di interfacce dinamiche con JavaScript e TailwindCSS.
-**Backend & DB**: Gestione database relazionali (MySQL) e NoSQL (MongoDB).
-**AI & Data**: Computer Vision con TensorFlow e analisi Big Data per il monitoraggio costi.
+
+**Linguaggi**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & DB**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**AI & Data**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-red?style=for-the-badge&logo=n8n&logoColor=white)
+
+**DevOps**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
